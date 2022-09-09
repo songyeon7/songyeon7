@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
