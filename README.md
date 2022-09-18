@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&desc=SRIHS%20SW%20117&descAlign=70&text=songyeon7&fontSize=70&FontAlignY=40)
+
+![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&show_icons=true&theme=radical)
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suneon7)](https://solved.ac/suneon7/)
