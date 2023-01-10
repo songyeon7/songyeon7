@@ -21,8 +21,21 @@ Here are some ideas to get you started:
 ![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&show_icons=true&theme=radical)
 -->
 # 💻 Project
-- [RE:HEART](https://github.com/songyeon7/RE-HEART)
-- [FSKE](https://github.com/songyeon7/FSKE_WEB)
+- [팩맨게임(2022.11)](https://github.com/songyeon7/PACMAN) - 2학기 프로그래밍 C프로젝트
+- [FSKE(2022.11)](https://github.com/songyeon7/FSKE_WEB) - 2학기 정보통신 프로젝트(단축키 모음 사이트)
+- [전사/번역기(2022.11)](https://github.com/songyeon7/DNAtoRNAtoDNA) - DNA 전사와 RNA 번역을하는 전사/번역기
+- [IWOP 동아리 방명록(2022.09)](https://github.com/songyeon7/IWOP-2022-09-07) - 동아리 전시회용 방문록 페이지
+- [앱개발못해요(2022.07)](https://github.com/songyeon7/I-can-t-develop-apps) - 여름 앱 소수전공 간단한 노래 앱
+- [RE:HEART(2022.07)](https://github.com/songyeon7/RE-HEART) - 여름방학 프로젝트(AED위치 표시 웹)
+- [미니게임천국(2022.06)](https://github.com/songyeon7/minigame_C) - 1학기 프로그래밍 C프로젝트
+
+# 🏫 Class
+- [인공지능 소수전공 코드 모음(2022.12)](https://github.com/songyeon7/AI-2022)
+- [깃허브 특강(2022.12)](https://github.com/songyeon7/github_c)
+- [앱배포 소수전공(2022.10)](https://github.com/songyeon7/FoodInfo1021)
+- [IWOP REACT 실습코드모음(2022.09~11)](https://github.com/songyeon7/IWOP_REACT_2022)
+- [IWOP VUE 실습코드모음(2022.08)](https://github.com/songyeon7/IWOP-VUE)
+- [IWOP 소프트웨어나눔축제 CSS 강의자료(2022.08)](https://github.com/songyeon7/IWOP_CSS_PPTX)
 
 # 📚 Career
 - [선린인터넷고등학교](https://sunrint.sen.hs.kr/) 소프트웨어과 117기 (Sunrin Internet High School SoftWare 117th)
@@ -39,5 +52,6 @@ Here are some ideas to get you started:
 [![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🏅 Baekjoon
+- [백준 코드](https://github.com/songyeon7/Baekjoon_songyeon7)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suneon7)](https://solved.ac/suneon7/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=suneon7&theme=warm)
