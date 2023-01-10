@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 ![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&show_icons=true&theme=radical)
 -->
-
+# 💻 Project
+- [RE:HEART](https://github.com/songyeon7/RE-HEART)
+- [FSKE](https://github.com/songyeon7/FSKE_WEB)
 
 # 📚 Career
 - [선린인터넷고등학교](https://sunrint.sen.hs.kr/) 소프트웨어과 117기 (Sunrin Internet High School SoftWare 117th)
