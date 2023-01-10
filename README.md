@@ -21,8 +21,21 @@ Here are some ideas to get you started:
 ![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&show_icons=true&theme=radical)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
 
+# 📚 Career
+- [Sunrin Internet High School SoftWare 117th](https://sunrint.sen.hs.kr/)
+- [Sunrin Internet High School Web Club IWOP 24th](https://www.facebook.com/sunrinIwop/)
+
+# 📬 Contacts
+- dnwntjsg@gmail.com
+
+# 👩‍💻 Blog
+- [네이버 블로그](https://blog.naver.com/song_yeon7)
+
+# 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
+[![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suneon7)](https://solved.ac/suneon7/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=suneon7&theme=warm)
-
