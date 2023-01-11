@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **songyeon7/songyeon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 ![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&show_icons=true&theme=radical)
 -->
+
+# 📚 Career
+- [선린인터넷고등학교](https://sunrint.sen.hs.kr/) 소프트웨어과 117기 (Sunrin Internet High School SoftWare 117th)
+- 선린인터넷고등학교 웹 전공동아리 [IWOP](https://www.facebook.com/sunrinIwop/) 24기 부부장 (Sunrin Internet High School Web Club IWOP 24th)
+
+
 # 💻 Project
 - [팩맨게임(2022.11)](https://github.com/songyeon7/PACMAN) - 2학기 프로그래밍 C프로젝트
 - [FSKE(2022.11)](https://github.com/songyeon7/FSKE_WEB) - 2학기 정보통신 프로젝트(단축키 모음 사이트)
@@ -29,6 +35,7 @@ Here are some ideas to get you started:
 - [RE:HEART(2022.07)](https://github.com/songyeon7/RE-HEART) - 여름방학 프로젝트(AED위치 표시 웹)
 - [미니게임천국(2022.06)](https://github.com/songyeon7/minigame_C) - 1학기 프로그래밍 C프로젝트
 
+
 # 🏫 Class
 - [인공지능 소수전공 코드 모음(2022.12)](https://github.com/songyeon7/AI-2022)
 - [깃허브 특강(2022.12)](https://github.com/songyeon7/github_c)
@@ -37,20 +44,20 @@ Here are some ideas to get you started:
 - [IWOP VUE 실습코드모음(2022.08)](https://github.com/songyeon7/IWOP-VUE)
 - [IWOP 소프트웨어나눔축제 CSS 강의자료(2022.08)](https://github.com/songyeon7/IWOP_CSS_PPTX)
 
-# 📚 Career
-- [선린인터넷고등학교](https://sunrint.sen.hs.kr/) 소프트웨어과 117기 (Sunrin Internet High School SoftWare 117th)
-- 선린인터넷고등학교 웹 전공동아리 [IWOP](https://www.facebook.com/sunrinIwop/) 24기 부부장 (Sunrin Internet High School Web Club IWOP 24th)
 
 # 📬 Contacts
 - dnwntjsg@gmail.com
 - [instagram](https://www.instagram.com/silsu_ro/)
 
+
 # 👩‍💻 Blog
 - [네이버 블로그](https://blog.naver.com/song_yeon7)
+
 
 # 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
 [![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 🏅 Baekjoon
 - [백준 코드](https://github.com/songyeon7/Baekjoon_songyeon7)
