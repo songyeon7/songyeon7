@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 📚 Career
 - [선린인터넷고등학교](https://sunrint.sen.hs.kr/) 소프트웨어과 117기 (Sunrin Internet High School SoftWare 117th)
-- 선린인터넷고등학교 웹 전공동아리 [IWOP](https://www.facebook.com/sunrinIwop/) 24기 부부장 (Sunrin Internet High School Web Club IWOP 24th)
+- 선린인터넷고등학교 웹 전공동아리 [IWOP](https://www.facebook.com/sunrinIwop/) 24기 쀼장 (Sunrin Internet High School Web Club IWOP 24th)
 
 
 # 💻 Project
