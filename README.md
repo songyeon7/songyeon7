@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - [앱배포 소수전공(2022.10)](https://github.com/songyeon7/FoodInfo1021)
 - [IWOP REACT 실습코드모음(2022.09~11)](https://github.com/songyeon7/IWOP_REACT_2022)
 - [IWOP VUE 실습코드모음(2022.08)](https://github.com/songyeon7/IWOP-VUE)
-- [IWOP 소프트웨어나눔축제 CSS 강의자료(2022.08)](https://github.com/songyeon7/IWOP_CSS_PPTX)
+- [IWOP CSS 강의자료(2022.08)](https://github.com/songyeon7/IWOP_CSS_PPTX)
 
 
 # 📬 Contacts
