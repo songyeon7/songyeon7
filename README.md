@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - [앱개발못해요(2022.07)](https://github.com/songyeon7/I-can-t-develop-apps) - 여름 앱 소수전공 간단한 노래 앱
 - [RE:HEART(2022.07)](https://github.com/songyeon7/RE-HEART) - 여름방학 프로젝트(AED위치 표시 웹)
 - [미니게임천국(2022.06)](https://github.com/songyeon7/minigame_C) - 1학기 프로그래밍 C프로젝트
+- [봄 프로젝트(2022.06)](https://songyeon7.github.io/firstweb/0614.html) - IWOP 봄 프로젝트(자기소개사이트)
 
 
 # 🏫 Class
