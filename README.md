@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 
 # 🏫 Class
-- [인공지능 소수전공 코드 모음(2022.12)](https://github.com/songyeon7/AI-2022)
-- [깃허브 특강(2022.12)](https://github.com/songyeon7/github_c)
-- [앱배포 소수전공(2022.10)](https://github.com/songyeon7/FoodInfo1021)
-- [IWOP REACT 실습코드모음(2022.09~11)](https://github.com/songyeon7/IWOP_REACT_2022)
-- [IWOP VUE 실습코드모음(2022.08)](https://github.com/songyeon7/IWOP-VUE)
-- [IWOP CSS 강의자료(2022.08)](https://github.com/songyeon7/IWOP_CSS_PPTX)
+- 인공지능 소수전공 [코드 모음](https://github.com/songyeon7/AI-2022)(2022.12)
+- 깃허브 [특강](https://github.com/songyeon7/github_c)(2022.12)
+- 앱배포 [소수전공](https://github.com/songyeon7/FoodInfo1021)(2022.10)
+- IWOP REACT [실습코드모음](https://github.com/songyeon7/IWOP_REACT_2022)(2022.09~11)
+- IWOP VUE [실습코드모음](https://github.com/songyeon7/IWOP-VUE)(2022.08)
+- IWOP CSS [강의자료](https://github.com/songyeon7/IWOP_CSS_PPTX)(2022.08)
 
 
 # 📬 Contacts
