@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 # 🏫 Class
-- 인공지능 소수전공 [코드 모음](https://github.com/songyeon7/AI-2022)(2022.12)
+- 인공지능 소수전공 [코드 모음](https://github.com/dnwntjsg/AI-2022)(2022.12)
 - 깃허브 [특강](https://github.com/songyeon7/github_c)(2022.12)
 - 앱배포 [소수전공](https://github.com/songyeon7/FoodInfo1021)(2022.10)
 - IWOP REACT [실습코드모음](https://github.com/songyeon7/IWOP_REACT_2022)(2022.09~11)
