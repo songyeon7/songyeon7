@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - [RE:HEART(2022.07)](https://github.com/songyeon7/RE-HEART) - 여름방학 프로젝트(AED위치 표시 웹)
 - [미니게임천국(2022.06)](https://github.com/songyeon7/minigame_C) - 1학기 프로그래밍 C프로젝트
 - [봄 프로젝트(2022.06)](https://github.com/songyeon7/firstweb) - IWOP 봄 프로젝트(자기소개사이트)
-- [자바로 만든 HuntTheWumpus(2022.01)](https://github.com/songyeon7/JAVA_HuntTheWumpusGame) - JAVA 게임
+- [HuntTheWumpus(2022.01)](https://github.com/songyeon7/JAVA_HuntTheWumpusGame) - JAVA 게임
 
 
 # 🏫 Class
