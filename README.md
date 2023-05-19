@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 # 📚 Career
 - [선린인터넷고등학교](https://sunrint.sen.hs.kr/) 소프트웨어과 117기 (Sunrin Internet High School SoftWare 117th)
-- 선린인터넷고등학교 웹 전공동아리 [IWOP](https://www.facebook.com/sunrinIwop/) 24기 쀼장 (Sunrin Internet High School Web Club IWOP 24th)
+- 선린인터넷고등학교 웹 전공동아리 [IWOP](iwop.github.io) 24기 쀼장 (Sunrin Internet High School Web Club IWOP 24th)
 
 
 # 💻 Project
-- [N-Queens(2023.05)](https://songyeon7.github.io/NQueen/) - N 개의 여왕
 - HeartSpace(2023.01~)
+- [N-Queens(2023.05)](https://songyeon7.github.io/NQueen/) - N개의 여왕
 - [Weather Web_App(2023.02)](https://github.com/songyeon7/WeatherApp_React) - 현재위치 날씨 웹앱
 - [RGBtoHEX(2023.01)](https://songyeon7.github.io/RGBtoHEX/) - RGB값 HEX색상코드 변환기
 - [팩맨게임(2022.11)](https://github.com/songyeon7/PACMAN) - 2학기 프로그래밍 C프로젝트
