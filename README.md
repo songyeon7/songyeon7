@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 
 # 💻 Project
+- [N-Queens(2023.05)](https://songyeon7.github.io/NQueen/) - N 개의 여왕
 - HeartSpace(2023.01~)
 - [Weather Web_App(2023.02)](https://github.com/songyeon7/WeatherApp_React) - 현재위치 날씨 웹앱
 - [RGBtoHEX(2023.01)](https://songyeon7.github.io/RGBtoHEX/) - RGB값 HEX색상코드 변환기
