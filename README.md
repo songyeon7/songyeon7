@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # 💻 Project
 - HeartSpace(2023.01~)
-- [N-Queens(2023.05)](https://songyeon7.github.io/NQueen/) - N개의 여왕
+- [N-Queens(2023.05)](https://songyeon7.github.io/NQueen/) - 알고리즘 N개의 여왕 문제(주제연구 발표)
 - [Weather Web_App(2023.02)](https://github.com/songyeon7/WeatherApp_React) - 현재위치 날씨 웹앱
 - [RGBtoHEX(2023.01)](https://songyeon7.github.io/RGBtoHEX/) - RGB값 HEX색상코드 변환기
 - [팩맨게임(2022.11)](https://github.com/songyeon7/PACMAN) - 2학기 프로그래밍 C프로젝트
