@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 
 # 💻 Project
 - HeartSpace(2023.01~)
-- [2048 SUNRIN(2023.09)](https://github.com/songyeon7/2048-sunrin) - 2048 선린 소프트웨어과 동아리 버전 (IWOP _ make a whale)
+- [2048 SUNRIN(2023.09)](https://github.com/songyeon7/2048-sunrin) - IWOP_make a whale (2048 react-native)
+- [CountUp (2023.06)](https://songyeon7.github.io/clock_easy_js/countup/) - 스톱워치
+- [Clock (2023.06)](https://songyeon7.github.io/clock_easy_js/clock/) - 현재시간시계
+- [HEXtoRGB(2023.06)](https://songyeon7.github.io/HEXtoRGB/) - HEX값 RGB색상코드 변환기
+- [Todolist_without database(2023.06)](https://songyeon7.github.io/todolist_js/) - 화면만 구현한 투두리스트 (데이터 저장 X)
 - [c++ 선형자료구조 프로젝트(2023.06)](https://github.com/songyeon7/data_structure_2023) - 2023 1학기 자료구조 C++ 프로젝트(배열, 큐)
 - [N-Queens(2023.05)](https://songyeon7.github.io/NQueen/) - 알고리즘 N개의 여왕 문제(주제연구 발표)
 - [Weather Web_App(2023.02)](https://github.com/songyeon7/WeatherApp_React) - 현재위치 날씨 웹앱
