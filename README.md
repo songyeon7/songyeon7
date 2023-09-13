@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 # 💻 Project
 - HeartSpace(2023.01~)
 - [2048 SUNRIN(2023.09)](https://github.com/songyeon7/2048-sunrin) - 2048 선린 소프트웨어과 동아리 버전 (IWOP _ make a whale)
-- [2048 SUNRIN(2023.09)](https://github.com/songyeon7/2048-sunrin) - IWOP_make a whale (2048 react-native)
 - [CountUp (2023.06)](https://songyeon7.github.io/clock_easy_js/countup/) - 스톱워치
 - [Clock (2023.06)](https://songyeon7.github.io/clock_easy_js/clock/) - 현재시간시계
 - [HEXtoRGB(2023.06)](https://songyeon7.github.io/HEXtoRGB/) - HEX값 RGB색상코드 변환기
