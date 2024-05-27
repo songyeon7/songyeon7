@@ -5,6 +5,8 @@
 
 # 📊 States
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
+<img src="https://github-readme-stats.vercel.app/api?username=songyeon7&theme=Dark&show_icons=true&count_private=true&hide_border=true"  width="40%"/>
+
 
 
 # 📬 Contacts
