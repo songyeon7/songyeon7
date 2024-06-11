@@ -7,6 +7,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyeon7&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/songyeon7/songyeon7/edit/main/README.md)
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/songyeon7?pet-id=588398960528582900"
+    width="400"
+    height="200"
+  />
+</a>
+  
 
 
 # 📬 Contacts
