@@ -12,6 +12,7 @@
     src="https://render.gitanimals.org/lines/songyeon7?pet-id=588398960528582900"
     width="400"
     height="200"
+background="#fff"
   />
 </a>
   
