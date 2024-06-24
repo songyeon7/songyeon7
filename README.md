@@ -8,7 +8,7 @@
 [![songyeon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyeon7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/songyeon7?pet-id=588398960528582900"
+    src="https://render.gitanimals.org/lines/songyeon7?pet-id=588398960528582900" 
   />
 </a>
   
